@@ -1,0 +1,112 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;0,500;0,700;1,200&display=swap');*/
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.header
+{
+    width:100%;
+    height:40px;
+    background-color:blanchedalmond;
+    display: flex;
+    padding-left :5%;
+    padding-right :5%;
+    justify-content: space-between;
+   
+}
+.logo
+{
+    width:20%;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    align-items: center;
+}
+.nav
+{
+    width:20%;
+    height:40px;
+
+}
+.nav-lin
+{
+    width:100%;
+    height:40px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.banner
+{
+    width:100%;
+    height:500px;
+    background-color:blanchedalmond;
+    padding: 50px 20%;
+    display: flex;
+    align-items: center;
+
+}
+.details
+{
+    width:60%;
+    padding:10px;
+    background-color:blanchedalmond;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.nam
+{
+    height:180px;
+   width:200px;
+
+}
+.n1
+{
+    color:blue;
+}
+.aca
+{
+    background-color:blanchedalmond;
+    color:black;
+    border: 3px solid blanchedalmond;
+    cursor: crosshair;
+    border-radius : 12px;
+    transition : 2s;
+    
+}
+.ski
+{
+    background-color:blanchedalmond;
+    color:black;
+    border: 3px solid blanchedalmond;
+    cursor: crosshair;
+    border-radius : 12px;
+    transition : 2s;
+    
+}
+.tuo
+{
+    height:100px;
+    width:100%;
+    background-color: blanchedalmond;
+    padding-left: 100px;
+    
+}
+.table,th,td
+{
+    border:1px solid black;
+}
+.header_b
+{
+    height: 100%;
+    width:100%;
+    background-color: blanchedalmond;
+}
